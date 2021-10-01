@@ -1,5 +1,5 @@
 # practice_site_1
-練習用も模写サイト１つめ
+練習用模写サイト１つめ
 
 pug
 sass
